@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://run.gptengineer.app/projects/1340b42f-5412-43e0-b239-b5fdabd2feb7/improve
+**URL**: <https://run.gptengineer.app/projects/1340b42f-5412-43e0-b239-b5fdabd2feb7/improve>
 
 ## How can I edit this code?
 
